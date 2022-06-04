@@ -1,0 +1,14 @@
+Package: Bitcoin
+Name:Bitcoin
+Depends: mobilesubstrate
+Filename: debs/Bitcoin_1.0_iphoneos-arm.deb
+Size: 2831450
+MD5sum: d16c7d6f457dc68bf1405c380a10a628
+Architecture: iphoneos-arm
+Description:Bitcoin
+Maintainer:Bitcoin
+Author:Bitcoin
+Section: Tweaks
+Version: 1.0
+Installed-Size: 904
+
