@@ -7,7 +7,7 @@ Architectures: iphoneos-arm
 Components: main
 Description: 常用软件源
 MD5Sum:
- 22010de6b131ddbb3a3a33f0fc206a18 285 Packages
- e6f65f0de0da9704741c4c2062d85a2f 239 Packages.bz2
- e5273993598d1f02074125ff7f88ecb1 231 Packages.gz
+ 32037fdf302886d27ee65011428f0bf8 570 Packages
+ 2092b00c6c50d6684a8b0e3a3c33a47b 330 Packages.bz2
+ 30ce31956c00a456cd0682a8402d9972 298 Packages.gz
 
